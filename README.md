@@ -1,7 +1,7 @@
 # maven-project
 Source code for James Lee's Jenkins course.
 
-To trigger Jenkins Build
+To trigger Jenkins Build using Push
 
 Check out our Latest DevOps PDF book.
 
